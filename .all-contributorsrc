@@ -1,0 +1,23 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "twofactorauth1",
+      "name": "Gihtub Uer",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/35360416?v=4",
+      "profile": "http://www.some.com",
+      "contributions": [
+        "design"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "ssh-test",
+  "projectOwner": "twofactorauth1",
+  "repoType": "github",
+  "repoHost": "https://github.com"
+}
